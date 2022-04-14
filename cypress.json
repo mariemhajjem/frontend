@@ -1,0 +1,18 @@
+{
+    "integrationFolder" : "cypress/e2e",
+    "baseUrl": "http://localhost:3000",
+    "ignoreTestFiles": [
+        "**/examples/*",
+        "cypress/integration/1-getting-started",
+        "cypress/integration/2-advanced-examples"
+    ],
+    
+    "chromeWebSecurity": false,
+    
+        "env": {
+          "API_SERVER": "http://localhost:5000"
+          
+        }
+      
+      
+}

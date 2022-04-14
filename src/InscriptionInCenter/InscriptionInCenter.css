@@ -1,0 +1,17 @@
+.inscriC {
+  align-items: center;
+  align-content: center;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 50px;
+}
+.parag {
+  padding-left: 100px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  margin-left: 60px;
+  align-items: center;
+  align-content: center;
+  color: red;
+  text-decoration-style: solid;
+}

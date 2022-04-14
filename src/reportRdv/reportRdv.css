@@ -1,0 +1,20 @@
+.report {
+  align-items: center;
+  align-content: center;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 50px;
+}
+.pa {
+  padding-left: 150px;
+  padding-top: 120px;
+  padding-bottom: 20px;
+  margin-left: 60px;
+  align-items: center;
+  align-content: center;
+  color: black;
+  text-decoration-style: solid;
+}
+.bt {
+  margin-left: 250px;
+}

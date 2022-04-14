@@ -1,0 +1,26 @@
+.warn {
+  background-color: rgba(238, 238, 57, 0.815);
+}
+.full {
+  display: block;
+  width: 100vw;
+  height: 100vw;
+  object-fit: cover;
+}
+.full2 {
+  display: block;
+  width: 100vw;
+  height: 550px;
+
+  object-fit: cover;
+}
+.column {
+  width: 50%;
+  padding-left: 6%;
+
+  align-content: center;
+}
+
+.img {
+  padding-right: 4%;
+}

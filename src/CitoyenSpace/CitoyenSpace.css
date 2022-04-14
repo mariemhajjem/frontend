@@ -1,0 +1,31 @@
+.update {
+  align-items: center;
+  align-content: center;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 50px;
+}
+.para {
+  padding-left: 130px;
+  padding-top: 120px;
+  padding-bottom: 20px;
+  margin-left: 30px;
+  align-items: center;
+  align-content: center;
+  color: black;
+  text-decoration-style: solid;
+}
+.para2 {
+  padding-left: 130px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 30px;
+  align-items: center;
+  align-content: center;
+  color: red;
+  text-decoration-style: solid;
+}
+
+.bt {
+  margin-left: 250px;
+}

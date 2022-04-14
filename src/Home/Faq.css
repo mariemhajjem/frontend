@@ -1,0 +1,17 @@
+h1 {
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  color: red;
+}
+.textStyle {
+  text-align: center;
+}
+.h3 {
+  text-decoration-style: solid;
+}
+
+.iconStyle {
+  font-size: 55px;
+  color: red;
+}

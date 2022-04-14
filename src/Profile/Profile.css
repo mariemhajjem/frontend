@@ -1,0 +1,24 @@
+.update {
+  align-items: center;
+  align-content: center;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 80px;
+}
+p {
+  font-size: 15px;
+}
+.but {
+  margin-top: 20px;
+  margin-left: 85px;
+}
+
+h2 {
+  align-items: center;
+  text-align: center;
+  padding-bottom: 15px;
+}
+.logo {
+  width: 100px;
+  margin-left: 50px;
+}

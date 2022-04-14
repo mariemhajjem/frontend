@@ -1,0 +1,19 @@
+.inscriP {
+  align-items: center;
+  align-content: center;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 200px;
+}
+.para {
+  padding-left: 450px;
+  padding-top: 40px;
+  margin-left: 60px;
+  align-items: center;
+  align-content: center;
+  color: black;
+  text-decoration-style: solid;
+}
+.buttonS {
+  margin-left: 180px;
+}
